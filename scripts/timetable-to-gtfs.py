@@ -141,7 +141,6 @@ def build_from_sheet(df: pd.DataFrame, sheet_name: str):
     stop_order=[]; seen=set()
     for c,name,kind in stop_cols:
         if name not in seen: seen.add(name); stop_order.append(name)
-    stop_ids={n: slugify(n) for n in stop_order}
 
     line_slug = slugify(route_id)
     trips=[]; stop_times=[]; counter=1; used_ids=set()
@@ -206,7 +205,7 @@ def build_from_sheet(df: pd.DataFrame, sheet_name: str):
                 "trip_id": trip_id,
                 "arrival_time": arr,
                 "departure_time": dep,
-                "stop_id": stop_ids[s],
+                "stop_id": s,
                 "stop_sequence": seq
             })
             seq += 1
