@@ -1,0 +1,3 @@
+agency_id,route_color,route_id,route_long_name,route_short_name,route_text_color,route_type
+LAMATA,0000ff,BLUE,Blue Line,BLUE,ffffff,1
+LAMATA,ff0000,RED,Red Line,RED,ffffff,1

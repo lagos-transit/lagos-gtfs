@@ -1,0 +1,2 @@
+friday,monday,saturday,service_id,sunday,thursday,tuesday,wednesday
+1,1,0,weekday,0,1,1,1

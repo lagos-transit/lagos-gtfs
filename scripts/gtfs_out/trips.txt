@@ -1,0 +1,82 @@
+route_id,service_id,trip_id,direction_id,trip_headsign
+BLUE,weekday,blue_outbound_00001,0,Mile 2
+BLUE,weekday,blue_outbound_00002,0,Mile 2
+BLUE,weekday,blue_outbound_00003,0,Mile 2
+BLUE,weekday,blue_outbound_00004,0,Mile 2
+BLUE,weekday,blue_outbound_00005,0,Mile 2
+BLUE,weekday,blue_outbound_00006,0,Mile 2
+BLUE,weekday,blue_outbound_00007,0,Mile 2
+BLUE,weekday,blue_outbound_00008,0,Mile 2
+BLUE,weekday,blue_outbound_00009,0,Mile 2
+BLUE,weekday,blue_outbound_00010,0,Mile 2
+BLUE,weekday,blue_outbound_00011,0,Mile 2
+BLUE,weekday,blue_outbound_00012,0,Mile 2
+BLUE,weekday,blue_outbound_00013,0,Mile 2
+BLUE,weekday,blue_outbound_00014,0,Mile 2
+BLUE,weekday,blue_outbound_00015,0,Mile 2
+BLUE,weekday,blue_outbound_00016,0,Mile 2
+BLUE,weekday,blue_outbound_00017,0,Mile 2
+BLUE,weekday,blue_outbound_00018,0,Mile 2
+BLUE,weekday,blue_outbound_00019,0,Mile 2
+BLUE,weekday,blue_outbound_00020,0,Mile 2
+BLUE,weekday,blue_outbound_00021,0,Mile 2
+BLUE,weekday,blue_outbound_00022,0,Mile 2
+BLUE,weekday,blue_outbound_00023,0,Mile 2
+BLUE,weekday,blue_outbound_00024,0,Mile 2
+BLUE,weekday,blue_outbound_00025,0,Mile 2
+BLUE,weekday,blue_outbound_00026,0,Mile 2
+BLUE,weekday,blue_outbound_00027,0,Mile 2
+BLUE,weekday,blue_outbound_00028,0,Mile 2
+BLUE,weekday,blue_outbound_00029,0,Mile 2
+BLUE,weekday,blue_outbound_00030,0,Mile 2
+BLUE,weekday,blue_outbound_00031,0,Mile 2
+BLUE,weekday,blue_outbound_00032,0,Mile 2
+BLUE,weekday,blue_outbound_00033,0,Mile 2
+BLUE,weekday,blue_outbound_00034,0,Mile 2
+BLUE,weekday,blue_outbound_00035,0,Mile 2
+BLUE,weekday,blue_outbound_00036,0,Mile 2
+BLUE,weekday,blue_outbound_00001,0,Marina
+BLUE,weekday,blue_outbound_00002,0,Marina
+BLUE,weekday,blue_outbound_00003,0,Marina
+BLUE,weekday,blue_outbound_00004,0,Marina
+BLUE,weekday,blue_outbound_00005,0,Marina
+BLUE,weekday,blue_outbound_00006,0,Marina
+BLUE,weekday,blue_outbound_00007,0,Marina
+BLUE,weekday,blue_outbound_00008,0,Marina
+BLUE,weekday,blue_outbound_00009,0,Marina
+BLUE,weekday,blue_outbound_00010,0,Marina
+BLUE,weekday,blue_outbound_00011,0,Marina
+BLUE,weekday,blue_outbound_00012,0,Marina
+BLUE,weekday,blue_outbound_00013,0,Marina
+BLUE,weekday,blue_outbound_00014,0,Marina
+BLUE,weekday,blue_outbound_00015,0,Marina
+BLUE,weekday,blue_outbound_00016,0,Marina
+BLUE,weekday,blue_outbound_00017,0,Marina
+BLUE,weekday,blue_outbound_00018,0,Marina
+BLUE,weekday,blue_outbound_00019,0,Marina
+BLUE,weekday,blue_outbound_00020,0,Marina
+BLUE,weekday,blue_outbound_00021,0,Marina
+BLUE,weekday,blue_outbound_00022,0,Marina
+BLUE,weekday,blue_outbound_00023,0,Marina
+BLUE,weekday,blue_outbound_00024,0,Marina
+BLUE,weekday,blue_outbound_00025,0,Marina
+BLUE,weekday,blue_outbound_00026,0,Marina
+BLUE,weekday,blue_outbound_00027,0,Marina
+BLUE,weekday,blue_outbound_00028,0,Marina
+BLUE,weekday,blue_outbound_00029,0,Marina
+BLUE,weekday,blue_outbound_00030,0,Marina
+BLUE,weekday,blue_outbound_00031,0,Marina
+BLUE,weekday,blue_outbound_00032,0,Marina
+BLUE,weekday,blue_outbound_00033,0,Marina
+BLUE,weekday,blue_outbound_00034,0,Marina
+BLUE,weekday,blue_outbound_00035,0,Marina
+BLUE,weekday,blue_outbound_00036,0,Marina
+RED,weekday,red_inbound_00001,1,Oyingbo
+RED,weekday,red_inbound_00002,1,Oyingbo
+RED,weekday,red_inbound_00003,1,Oyingbo
+RED,weekday,red_inbound_00004,1,Oyingbo
+RED,weekday,red_inbound_00005,1,Oyingbo
+RED,weekday,red_outbound_00001,0,Agbado
+RED,weekday,red_outbound_00002,0,Agbado
+RED,weekday,red_outbound_00003,0,Agbado
+RED,weekday,red_outbound_00004,0,Agbado

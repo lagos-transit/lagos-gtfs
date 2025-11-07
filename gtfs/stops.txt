@@ -1,0 +1,14 @@
+stop_id,stop_lat,stop_lon,stop_name,wheelchair_boarding,zone_id
+Mile 2,6.45987,3.31157,Mile 2,,Mile 2
+Alaba,6.46423,3.32439,Alaba,,Alaba
+Iganmu,6.47749,3.34306,Iganmu,,Iganmu
+National Theatre,6.47459,3.36878,National Theatre,,National Theatre
+Marina,6.44609,3.39486,Marina,1,Marina
+Agbado,6.68707,3.303,Agbado,,Agbado
+Iju,6.66206,3.31926,Iju,,Iju
+Agege,6.62135,3.3254,Agege,,Agege
+Ikeja,6.59195,3.33735,Ikeja,,Ikeja
+Oshodi,6.55723,3.35139,Oshodi,,Oshodi
+Mushin,6.53253,3.36143,Mushin,,Mushin
+Yaba,6.51145,3.37,Yaba,,Yaba
+Oyingbo,6.48344,3.3815,Oyingbo,0,Oyingbo
